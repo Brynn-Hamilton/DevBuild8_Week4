@@ -1,0 +1,15 @@
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\bin\Debug\net6.0\Lab4.1_RPG.exe
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\bin\Debug\net6.0\Lab4.1_RPG.deps.json
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\bin\Debug\net6.0\Lab4.1_RPG.runtimeconfig.json
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\bin\Debug\net6.0\Lab4.1_RPG.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\bin\Debug\net6.0\Lab4.1_RPG.pdb
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.csproj.AssemblyReference.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.AssemblyInfoInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.AssemblyInfo.cs
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.csproj.CoreCompileInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\refint\Lab4.1_RPG.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.pdb
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\Lab4.1_RPG.genruntimeconfig.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\Lab4.1_RPG\obj\Debug\net6.0\ref\Lab4.1_RPG.dll
