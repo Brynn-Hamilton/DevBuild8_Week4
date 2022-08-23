@@ -1,0 +1,15 @@
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\bin\Debug\net6.0\4.2Lab_UsedCarLot.exe
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\bin\Debug\net6.0\4.2Lab_UsedCarLot.deps.json
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\bin\Debug\net6.0\4.2Lab_UsedCarLot.runtimeconfig.json
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\bin\Debug\net6.0\4.2Lab_UsedCarLot.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\bin\Debug\net6.0\4.2Lab_UsedCarLot.pdb
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.csproj.AssemblyReference.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.AssemblyInfo.cs
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.csproj.CoreCompileInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\refint\4.2Lab_UsedCarLot.dll
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.pdb
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\4.2Lab_UsedCarLot.genruntimeconfig.cache
+C:\Users\BHamilton3\DevBuild8_GC\DevBuild8_Week4\4.2Lab_UsedCarLot\obj\Debug\net6.0\ref\4.2Lab_UsedCarLot.dll
